@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactRoomBaseBasic</string>
+    <string name="name_hint">"Enter name "</string>
+    <string name="occupation_hint">Enter Occupation</string>
+    <string name="save_text">Save</string>
+    <string name="empty">Enter all the information</string>
+    <string name="description_text">"floating button "</string>
+    <string name="upate_text">UPADTE</string>
+    <string name="delete_text">DELETE</string>
+</resources>
